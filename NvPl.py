@@ -19,7 +19,7 @@ from streamlit_extras.switch_page_button import switch_page
 
 logging.basicConfig(level=logging.DEBUG)
 
-    st.markdown(
+st.markdown(
     """
     <style>
     div.block-container {
